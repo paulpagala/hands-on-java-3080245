@@ -36,6 +36,7 @@ public class Menu {
       System.out.println("3: Check Balance");
       System.out.println("4: Exit");
       System.out.println("=========================");
+      
 
       selection = scanner.nextInt();
       double amount = 0;
